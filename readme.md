@@ -1,6 +1,6 @@
-# Lesson for meetup of SheSharp in Amsterdam
+# Lesson for meetup of Learn to Code in Amsterdam
 
-This repo contains all the assets for the presentation given at the shesharp meetup - a meetup for women who are interested in learning to code.
+This repo contains all the assets for the presentation given at the Learn to Code meetup - a meetup for individuals interested in learning to code.
 
 ### Contents
 
@@ -10,4 +10,4 @@ This repo contains all the assets for the presentation given at the shesharp mee
 
 For a demo of the landing page visit [here](http://www.tjinauyeung.nl/bananas/)
 
-Courtesy of Tji
+Courtesy of [Tjin Au Yeung](https://github.com/tjinauyeung/shesharp_lesson)
